@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(157, 96, 157);
+    text-align: center;
+    background-attachment: scroll;
+}
+h1{
+    color: black;
+    font-family: fantasy;
+    border-bottom: dotted;
+}
+p{
+    color: white;
+    font-family: 'Times New Roman';
+    font-size: x-large;
+}
